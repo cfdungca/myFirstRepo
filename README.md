@@ -1,2 +1,3 @@
-# myFirstRepo PJ is pretty.
+# myFirstRepo 
+PJ is pretty.
 
